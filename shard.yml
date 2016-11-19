@@ -1,0 +1,10 @@
+name: nicepwd
+version: 0.1.0
+
+authors:
+  - SuperPaintman <SuperPaintmanDeveloper@gmail.com>
+
+description: |
+  Fish shell style pwd.
+
+license: MIT
