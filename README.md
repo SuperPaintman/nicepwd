@@ -6,7 +6,7 @@
 
 **Fish** shell style pwd.
 
-> ~/Projects/Crystal/own/nicepwd
+> ~/P/c/o/nicepwd
 
 
 ## Installation
